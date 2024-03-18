@@ -70,7 +70,7 @@
     "eslint-plugin-react-hooks": "4.6.0",
     "jsdom": "~22.1.0",
     "nx": "18.1.1",
-    "postcss": "8.4.21",
+    "postcss": "8.4.31",
     "prettier": "^2.6.2",
     "sass": "^1.55.0",
     "storybook": "7.6.17",
